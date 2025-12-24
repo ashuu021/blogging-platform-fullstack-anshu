@@ -1,4 +1,5 @@
 # Full Stack Blogging Platform
+## 👤 Author
 
 A blogging platform built using the MEAN stack that allows users to:
 - Register & login
@@ -35,4 +36,3 @@ Tools: Git, Postman
 cd backend
 npm install
 npm start
-
